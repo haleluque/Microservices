@@ -1,4 +1,4 @@
-package limits_service.configuration;
+package com.haleluque.microservices.limits_service.configuration;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

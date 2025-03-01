@@ -1,4 +1,4 @@
-package limits_service.model;
+package com.haleluque.microservices.limits_service.model;
 
 public class Limits {
     private int minimum;
